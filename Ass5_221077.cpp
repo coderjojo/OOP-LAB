@@ -23,7 +23,7 @@ int main()
      }
      catch(demo e)
      {
-         cout<<"Enter the city between mumbai and pune and banglore and chennai"<<endl;
+         cout<<"Enter the city between mumbai or pune or banglore or chennai"<<endl;
      }
     cout<<"Enter the type of wheeler: ";
     cin>>wheeler;
@@ -40,7 +40,7 @@ int main()
      }
      catch(demo e)
      {
-         cout<<"Enter the 4 wheeler"<<endl;
+         cout<<"Enter 4 wheeler"<<endl;
      }
 
    return 0;
